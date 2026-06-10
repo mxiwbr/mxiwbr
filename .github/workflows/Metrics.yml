@@ -19,4 +19,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
           plugin_languages: yes
-          config_order: base.header, languages, stars
+          config_order: base.header, stars, languages
