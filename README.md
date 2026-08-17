@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Maximilian
+<h1>Hi 👋 I'm Maximilian
 
-<picture align="center">
+<picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
