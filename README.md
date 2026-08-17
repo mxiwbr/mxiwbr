@@ -1,5 +1,3 @@
-<h1>Hi 👋 I'm Maximilian
-
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
