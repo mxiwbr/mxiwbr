@@ -6,5 +6,7 @@
 <hr width="495" align="left">
 
 <picture>
-  <img src="./profile/streak.svg" alt="GitHub Streak">
+  <source media="(prefers-color-scheme: dark)" srcset="profile/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile/streak-light.svg">
+  <img alt="GitHub Streak" src="profile/streak-light.svg">
 </picture>
