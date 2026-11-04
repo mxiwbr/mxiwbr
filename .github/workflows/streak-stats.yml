@@ -20,7 +20,7 @@ jobs:
       - name: Generate streak stats (dark)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=${{ github.repository_owner }}&theme=dark&mode=weekly
+          options: user=${{ github.repository_owner }}&theme=dark&mode=weekly&border=30363D
           path: profile/streak-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
